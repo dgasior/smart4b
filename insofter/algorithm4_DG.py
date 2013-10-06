@@ -8,6 +8,7 @@ import string;
 import sys;
 import math;
 
+
 #stale
 INFTY = 10e10 	#nieskonczonosc
 RHO = 1000	#maksymalne przesuniecie obiektu
